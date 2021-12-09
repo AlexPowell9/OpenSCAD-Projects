@@ -1,27 +1,27 @@
 // plate dimensions
-plateLength=40;
-plateWidth=20;
-plateHeight=2;
-plateBezzle=2;
-plateThickness=2;
+plateLength=115.5;
+plateWidth=69.3;
+plateHeight=5;
+plateBezzle=3.5;
+plateThickness=3;
 
 // switch dimensions
-switchLength=5;
-switchWidth=2;
+switchLength=23.5;
+switchWidth=10.5;
 
 // screw dimensions
-screwOffsetBottom=10;
-screwOffsetTop=10;
-screwRadius=0.5;
-standoffThickness=0.5;
+screwOffsetBottom=30;
+screwOffsetTop=30;
+screwRadius=2.25;
+standoffThickness=3;
 
 // hook dimensions
-hookRadius=2;
-hookLength=4;
-hookNotchDepth=1;
-hookNotchLength=3;
-hookInset = 3;
-hookBuryDepth=0.5;
+hookRadius=6;
+hookLength=15;
+hookNotchDepth=2;
+hookNotchLength=11;
+hookInset = 8;
+hookBuryDepth=2;
 
 module plate(length, width, height, bezzle) {
     hull() {
@@ -33,7 +33,7 @@ module plate(length, width, height, bezzle) {
 module hollowPlate(length, width, height, bezzle, thickness) {
     difference() {
         plate(length, width, height, bezzle);
-        translate([0,0,-thickness]) plate(length, width, height+thickness/2, bezzle);
+        translate([0,0,-thickness*2]) plate(length, width, height+thickness, bezzle);
     }
 }
 
@@ -54,10 +54,12 @@ difference() {
     union() {
         hollowPlate(plateLength, plateWidth, plateHeight, plateBezzle, plateThickness);
         translate([(plateLength/2)-screwOffsetBottom, plateWidth/2, plateHeight/2]) cylinder(plateHeight, screwRadius+standoffThickness, screwRadius+standoffThickness, center=true, $fn=50);
-        translate([(plateLength/2)+screwOffsetTop, plateWidth/2, plateHeight/2]) cylinder(plateHeight,      screwRadius+standoffThickness, screwRadius+standoffThickness, center=true, $fn=50);
+        translate([(plateLength/2)+screwOffsetTop, plateWidth/2, plateHeight/2]) cylinder(plateHeight, screwRadius+standoffThickness, screwRadius+standoffThickness, center=true, $fn=50);
     }
 
     translate([plateLength/2, plateWidth/2, plateHeight/2]) cube([switchLength, switchWidth, plateHeight+0.2], center=true);
-    translate([(plateLength/2)-screwOffsetBottom, plateWidth/2, plateHeight/2]) cylinder(plateHeight+0.2, screwRadius, center=true, $fn=50);
-    translate([(plateLength/2)+screwOffsetTop, plateWidth/2, plateHeight/2]) cylinder(plateHeight+0.2, screwRadius, center=true, $fn=50);
+    translate([(plateLength/2)-screwOffsetBottom, plateWidth/2, plateHeight/2]) cylinder(plateHeight+0.2, screwRadius, screwRadius, center=true, $fn=50);
+    translate([(plateLength/2)+screwOffsetTop, plateWidth/2, plateHeight/2]) cylinder(plateHeight+0.2, screwRadius, screwRadius, center=true, $fn=50);
+        translate([(plateLength/2)-screwOffsetBottom, plateWidth/2, plateHeight-1]) cylinder(2+0.1, r2=screwRadius+2.5, r1=0, center=true, $fn=50);
+    translate([(plateLength/2)+screwOffsetTop, plateWidth/2, plateHeight-1]) cylinder(2+0.1, r2=screwRadius+2.5, r1=0, center=true, $fn=50);
 }

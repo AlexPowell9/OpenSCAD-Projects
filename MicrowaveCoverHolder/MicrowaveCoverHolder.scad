@@ -7,8 +7,8 @@ angleApart=30;
 
 // support area
 innerAngle=125;
-innerRadius=80;
-innerThickness=28;
+innerRadius=60;
+innerThickness=48;
 innerLength=5;
 numSupports=4;
 

@@ -3,7 +3,7 @@ plateLength=115.5;
 plateWidth=69.3;
 plateHeight=5;
 plateBezzle=3.5;
-plateThickness=3;
+plateThickness=1.5;
 
 // switch dimensions
 switchLength=23.5;
@@ -13,15 +13,15 @@ switchWidth=10.5;
 screwOffsetBottom=30;
 screwOffsetTop=30;
 screwRadius=2.25;
-standoffThickness=3;
+standoffThickness=1.5;
 
 // hook dimensions
 hookRadius=6;
-hookLength=15;
-hookNotchDepth=2;
-hookNotchLength=11;
+hookLength=7;
+hookNotchDepth=4;
+hookNotchLength=4.2;
 hookInset = 8;
-hookBuryDepth=2;
+hookBuryDepth=0.1;
 
 module plate(length, width, height, bezzle) {
     hull() {
@@ -33,7 +33,7 @@ module plate(length, width, height, bezzle) {
 module hollowPlate(length, width, height, bezzle, thickness) {
     difference() {
         plate(length, width, height, bezzle);
-        translate([0,0,-thickness*2]) plate(length, width, height+thickness, bezzle);
+        translate([thickness/2,thickness/2,-thickness*2]) plate(length-thickness, width-thickness, height+thickness, bezzle);
     }
 }
 

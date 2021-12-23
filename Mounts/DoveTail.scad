@@ -25,3 +25,8 @@ module doveTailMountWithScrewHoles(length, width, height, depth, mountWidth, ins
 }
 
 doveTailMountWithScrewHoles(5,10,10,3,3,3,1, 0.2);
+
+
+translate([20,20,20]) difference() {
+    cylinder(r=5, h=30);
+}

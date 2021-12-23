@@ -8,8 +8,8 @@ $fn=250;
 
 module crossSection() {
     intersection() {
-        square([3,3],center=true);
-        circle(1.7, center=true);
+        square([4,4],center=true);
+        circle(r=2.3, center=true);
     }
     
 }
@@ -20,6 +20,23 @@ module hook() {
     translate([hookStartLength,-(hookRadius-1)]) translate([(1+(hookRadius/hookLoopbackRadius))*((hookLoopbackRadius*sin(hookLoopbackAngle))),((hookRadius/hookLoopbackRadius)+1)*(hookLoopbackRadius-(hookLoopbackRadius*cos(hookLoopbackAngle)))]) rotate([180,0,90+hookLoopbackAngle]) rotate_extrude(angle=hookAngle) translate([hookRadius,0,0]) crossSection();
 }
 
-color("red") hook();
+module doveTailMount(length, width, height, depth, insetDepth, buttonSupportWidth) {
+    difference() {
+        cube([length, width, height]);
+        hull() {
+            cube([0.1, width, height]);
+            cube([[0.1, width+inset, height-buttonSupportWidth]]);
+        }
+    }
+}
+
+// Test Area
+
+
+
+color("red") rotate([-90,0,0]) hook();
+color("red") rotate([-90,0,0]) translate([0,0,-40]) hook();
+color("red") rotate([-90,0,0]) translate([0,0,40]) hook();
+
 
 color("green") translate([-5,-45,-15])cube([5,90,30]);

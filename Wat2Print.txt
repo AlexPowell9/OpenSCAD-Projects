@@ -1,0 +1,128 @@
+(ND) = Needs Design
+(NE) = Needs Edit to existing design
+(NM) = Needs Measure
+(NC) = Needs to choose designs
+
+BLACK
+- D battery holder (NE)
+- PS4 Controller Holder (NC/ND if no good design exists)
+- Loose cable mgmt clips (NC)
+- Laptop holder (ND)
+- Desktop organizer (ND)
+- Dishwasher clean/dirty (NC)
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026
+- avalon box https://www.thingiverse.com/thing:3644771
+- MAYBE 7 wonders duel card board https://www.thingiverse.com/thing:4286465
+- The mind box, maybe that also fits the mind extreme (ND) (or transparent)
+- Pin backs https://www.thingiverse.com/thing:4902498
+
+BLUE
+- Last two V-slot covers
+- Ender 3 Tray (or black)
+- Micro SD Cover
+- 8 Wingspan birdhouses https://www.thingiverse.com/thing:3557101
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026
+
+WHITE
+- Cloud 2
+- Belt Hanger
+- Light Switch Plate W/ Wallet (ND)
+- Tie Hanger
+- White flexy lamp wall mount (ND)
+
+ICE BLUE
+- Coffee Clip + Cap
+- Spoon holder for viet coffee (ND)
+- Magnet microwave cover holder (ND)
+- Wall mount system (ND)
+  - V60 filters
+  - Porta filters
+  - Tamp
+- Wingspan boxes https://www.thingiverse.com/thing:3700341 https://www.thingiverse.com/thing:4412935 (Could be transparent)
+- Held hands insert (ND)
+
+TEAL
+- Rag holders
+- Elephant
+- Tall Can Dispenser
+- paper Towel Holder?
+- Drawer organizers (NM)
+- ChopStick Holder (could also be ice blue or transparent)
+- Fridge magnet oven mitt holder (ND)
+- Plate stand(s) (ND)
+- Mug Hooks (ND)
+- Azul stuff https://www.thingiverse.com/thing:4292694 https://www.thingiverse.com/thing:4785963
+
+RAINBOW/OIL SLICK
+- Sanding blocks!
+- Sphericons
+- Cube Gears
+- Kaleidocycle
+- Tic Tac Gun
+- Fidget gears
+- 2 way screw
+- 8 Wingspan birdhouses (or black/white)
+
+TRANSPARENT
+- Ticket to ride insert https://www.thingiverse.com/thing:3495916 OR train holders https://www.thingiverse.com/thing:3308372 (or black/white)
+- Aeon's nd insert https://www.thingiverse.com/thing:2804908 (or black)
+- Aeon's end market holder https://www.thingiverse.com/thing:4577361
+- patchwork insert https://www.thingiverse.com/thing:3582171 (or ice blue)
+- Cosmic encounter ship/planet holders https://www.thingiverse.com/thing:4670163
+- MAYBE cosmic encounter card tray https://www.thingiverse.com/thing:3113629 (or black)
+- MAYBE cosmic encounter token trays https://www.thingiverse.com/thing:3778961
+- TFM board grids https://www.thingiverse.com/thing:2429271 (NE: Want it to snap on/card slides in.)
+- TFM storage https://www.thingiverse.com/thing:2479938 (NE: Don't like the money holder, shoudl have 6 sections w/ ramps. Maybe go with another design idk)
+- Sagrada insert https://www.thingiverse.com/thing:4663723 (or black)
+- Carcasonne meepl organizer https://www.thingiverse.com/thing:2008265
+- Carcasonne tile dispenser https://www.thingiverse.com/thing:1649945 (white/beige/grey would b better...)
+- DC rivals insert https://www.thingiverse.com/thing:4708597
+
+GREEN
+- 8 Wingspan birdhouses
+- Codenames duet insert https://www.thingiverse.com/thing:2758526
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026
+- Mansions of madness dashboard https://www.thingiverse.com/thing:3506482
+
+RED
+- 8 Wingspan birdhouses
+- Bang insert https://www.thingiverse.com/thing:4179765 (NE: Change bullet holder to a trough for cardboard bullets)
+- Codenames insert https://www.thingiverse.com/thing:2758526
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026
+- Carcasonne tile dispenser roof https://www.thingiverse.com/thing:1649945
+- Gloomhaven dashboards https://www.thingiverse.com/thing:2773751
+
+YELLOW
+- 8 Wingspan birdhouses
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026
+
+ANY COLOUR
+- V29D whistle
+- 3-tone whistle
+- Broom Holder
+- Frankenstein lightswitch plate(s)
+- Dice Tower
+- Ikea lamp covers (ND)
+- Munchkin Zombies case (ND)
+- Concordia insert https://www.thingiverse.com/thing:3879720 (ND/NE: The one linked here is decent but the coin tray sucks. Should have sections, maybe ramps... lid.)
+- Over the top deck boxes for magic etc https://www.thingiverse.com/thing:4060710
+
+
+DOOOOONE:
+- Various gifts
+- Ornaments + star
+- Front door light switch cover
+- Ender 3 mods
+  - PCB cover + drawers
+  - Extruder knob
+  - Filament guides
+  - Bed handle
+  - Fan covers
+  - Tool holder w/ mallet hook
+  - Hair spray holder
+- Door wreath hook
+- Various desk cable mgmt hooks
+- Cupboard catches
+- Pot lid holders
+- Battery organizer
+- Ender 3 Pi case

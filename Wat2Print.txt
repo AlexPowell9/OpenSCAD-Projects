@@ -4,17 +4,15 @@
 (NC) = Needs to choose designs
 
 BLACK
-- D battery holder (NE)
+- D battery holder
 - PS4 Controller Holder (NC/ND if no good design exists)
 - Loose cable mgmt clips (NC)
 - Laptop holder (ND)
 - Desktop organizer (ND)
 - Dishwasher clean/dirty (NC)
-- TFM astronaut dude https://www.thingiverse.com/thing:4578026
-- avalon box https://www.thingiverse.com/thing:3644771
+- Avalon box https://www.thingiverse.com/thing:3644771
 - MAYBE 7 wonders duel card board https://www.thingiverse.com/thing:4286465
 - The mind box, maybe that also fits the mind extreme (ND) (or transparent)
-- Pin backs https://www.thingiverse.com/thing:4902498
 
 BLUE
 - Last two V-slot covers
@@ -91,6 +89,7 @@ RED
 - TFM astronaut dude https://www.thingiverse.com/thing:4578026
 - Carcasonne tile dispenser roof https://www.thingiverse.com/thing:1649945
 - Gloomhaven dashboards https://www.thingiverse.com/thing:2773751
+- Avalon box lid text
 
 YELLOW
 - 8 Wingspan birdhouses
@@ -126,3 +125,4 @@ DOOOOONE:
 - Pot lid holders
 - Battery organizer
 - Ender 3 Pi case
+- Pin backs https://www.thingiverse.com/thing:4902498

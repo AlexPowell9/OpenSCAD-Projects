@@ -45,6 +45,8 @@ ICE BLUE
   - V60 filters
   - Porta filters
   - Tamp
+  - Viet coffee maker?
+  - Aeropress?
 - Held hands insert (ND)
 
 TRANSPARENT
@@ -57,16 +59,15 @@ GREEN
 - Liar's Dice cup (NC)
 
 RED
-- Avalon box lid text
+- Avalon box lid text..?
 - Liar's Dice cup (NC)
 
 YELLOW
-- 8 Wingspan birdhouses
-- TFM astronaut dude https://www.thingiverse.com/thing:4578026
 - Liar's Dice cup (NC)
 
 PURPLE?
 - Gloomhaven dashboard
+- Last 8 wingspan birdhouses
 
 ANY COLOUR
 - Broom Holder
@@ -103,12 +104,12 @@ DOOOOONE:
 - Ender 3 Pi case
 - Pin backs https://www.thingiverse.com/thing:4902498
 - Avalon box https://www.thingiverse.com/thing:3644771
-- TFM astronaut dude https://www.thingiverse.com/thing:4578026 (Blue, Black, Red, Green)
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026 (Blue, Black, Red, Green, Yellow)
 - Tie Hanger
 - 'Cloud storage' tp holder
 - Last two V-slot covers
 - Micro SD Cover
-- 8 Wingspan birdhouses (Blue, Red, Green)
+- 8 Wingspan birdhouses (Blue, Red, Green, Yellow)
 - Elephant
 - Azul stuff https://www.thingiverse.com/thing:4292694 https://www.thingiverse.com/thing:4785963
 - 2 way screw

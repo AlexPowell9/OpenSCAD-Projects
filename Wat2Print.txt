@@ -4,22 +4,33 @@
 (NC) = Needs to choose designs
 
 BLACK
+- Switch pro controller mount
+- Stuff to hold gcn controller/cables (NE)
+- WiiU Mount (NE)
+- GCN controller mounts https://www.thingiverse.com/thing:4817090
+- Some cable mgmt stuff for TV setup
 - D battery holder (NE)
-- Dishwasher clean/dirty (NC)
-- Laptop holder? (ND)
-- Desktop organizer (ND)
+- Dishwasher clean/dirty (NC) (Or White)
 - The mind box, maybe that also fits the mind extreme (ND) (or transparent)
+- Rahul's Turmoil meeple holder
 - MAYBE 7 wonders duel card board https://www.thingiverse.com/thing:4286465
+- Cosmic encounter card tray https://www.thingiverse.com/thing:3113629 (or transparent)
+- MAYBE cosmic encounter token trays https://www.thingiverse.com/thing:3778961
+- Sagrada insert https://www.thingiverse.com/thing:4663723 (or transparent)
+- Re-print the avalon box?
+- Laptop holder? (ND)
+- Desktop organizer? (ND)
 
 BLUE
+- Reprint filament guide thing
 - MAYBE Ender 3 Tray (or black)
+- Liar's Dice cup (NC) (or teal/ice)
 
-WHITE
-- Wiimote charger wall mount (ND)
+(BONE) WHITE
 - Light Switch Plate W/ Wallet (ND)
+- Oculus wall mount (NC)
 - White flexy lamp wall mount (ND)
-- Belt Hanger
-- Carcasonne tile dispenser https://www.thingiverse.com/thing:1649945 (or beige/grey...)
+- Liar's Dice cup (NC)
 
 TEAL
 - ChopStick Holder (could also be ice blue or transparent)
@@ -30,72 +41,53 @@ TEAL
 - MAYBE paper Towel Holder
 
 ICE BLUE
-- Magnet microwave cover holder
-- Coffee Clip + Cap
-- Wingspan boxes https://www.thingiverse.com/thing:3700341 https://www.thingiverse.com/thing:4412935 (Could be transparent) MAYBE https://www.thingiverse.com/thing:4185963
-- Spoon holder for viet coffee (ND)
 - Wall mount system (ND)
   - V60 filters
   - Porta filters
   - Tamp
 - Held hands insert (ND)
 
-RAINBOW/OIL SLICK
-- Kaleidocycle
-- Tic Tac Gun
-- Fidget gears
-
 TRANSPARENT
 - Ticket to ride insert https://www.thingiverse.com/thing:3495916 OR train holders https://www.thingiverse.com/thing:3308372 (or black/white)
-- Aeon's end insert https://www.thingiverse.com/thing:2804908 (or black)
-- Aeon's end market holder https://www.thingiverse.com/thing:4577361
-- Patchwork insert https://www.thingiverse.com/thing:3582171 (or ice blue)
-- Cosmic encounter ship/planet holders https://www.thingiverse.com/thing:4670163
-- MAYBE cosmic encounter card tray https://www.thingiverse.com/thing:3113629 (or black)
-- MAYBE cosmic encounter token trays https://www.thingiverse.com/thing:3778961
-- TFM board grids https://www.thingiverse.com/thing:2429271 (NE: Want it to snap on/card slides in.)
-- TFM storage https://www.thingiverse.com/thing:2479938 (NE: Don't like the money holder, shoudl have 6 sections w/ ramps. Maybe go with another design idk)
-- Sagrada insert https://www.thingiverse.com/thing:4663723 (or black)
-- Carcasonne meeple organizer https://www.thingiverse.com/thing:2008265
-- DC rivals insert https://www.thingiverse.com/thing:4708597
+- MAYBE TFM board grids https://www.thingiverse.com/thing:2429271 (NE: Want it to snap on/card slides in.)
+- MAYBE TFM storage https://www.thingiverse.com/thing:2479938 (NE: Don't like the money holder, should have 6 sections w/ ramps. Maybe go with another design idk)
+- MAYBE Carcasonne meeple organizer? https://www.thingiverse.com/thing:2008265
 
 GREEN
-- TFM astronaut dude https://www.thingiverse.com/thing:4578026
-- 8 Wingspan birdhouses
-- Codenames duet insert https://www.thingiverse.com/thing:2758526
-- Mansions of madness dashboard https://www.thingiverse.com/thing:3506482
+- Liar's Dice cup (NC)
 
 RED
 - Avalon box lid text
-- 8 Wingspan birdhouses
-- TFM astronaut dude https://www.thingiverse.com/thing:4578026
-- Bang insert https://www.thingiverse.com/thing:4179765 (NE: Change bullet holder to a trough for cardboard bullets)
-- Codenames insert https://www.thingiverse.com/thing:2758526
-- Carcasonne tile dispenser roof https://www.thingiverse.com/thing:1649945
-- Gloomhaven dashboards https://www.thingiverse.com/thing:2773751
+- Liar's Dice cup (NC)
 
 YELLOW
 - 8 Wingspan birdhouses
 - TFM astronaut dude https://www.thingiverse.com/thing:4578026
+- Liar's Dice cup (NC)
+
+PURPLE?
+- Gloomhaven dashboard
 
 ANY COLOUR
 - Broom Holder
 - Frankenstein lightswitch plate(s)
-- Munchkin Zombies case (ND)
-- V29D whistle
 - 3-tone whistle
 - Dice Tower
 - Ikea lamp covers (ND)
 - Concordia insert https://www.thingiverse.com/thing:3879720 (ND/NE: The one linked here is decent but the coin tray sucks. Should have sections, maybe ramps... lid.)
 - Over the top deck boxes for magic etc https://www.thingiverse.com/thing:4060710
 - Cable ratchets? https://www.prusaprinters.org/prints/19378-ratchets
-
+- Kaleidocycle
+- Tic Tac Gun
+- Fidget gears
+- More Liar's Dice cups (ND)
+- More gloomhaven dashboards
 
 DOOOOONE:
 - Various gifts
 - Ornaments + star
 - Front door light switch cover
-- Ender 3 mods
+- Ender 3 mods:
   - PCB cover + drawers
   - Extruder knob
   - Filament guides
@@ -111,12 +103,12 @@ DOOOOONE:
 - Ender 3 Pi case
 - Pin backs https://www.thingiverse.com/thing:4902498
 - Avalon box https://www.thingiverse.com/thing:3644771
-- TFM astronaut dude https://www.thingiverse.com/thing:4578026 (Blue, Black)
+- TFM astronaut dude https://www.thingiverse.com/thing:4578026 (Blue, Black, Red, Green)
 - Tie Hanger
 - 'Cloud storage' tp holder
 - Last two V-slot covers
 - Micro SD Cover
-- 8 Wingspan birdhouses (Blue)
+- 8 Wingspan birdhouses (Blue, Red, Green)
 - Elephant
 - Azul stuff https://www.thingiverse.com/thing:4292694 https://www.thingiverse.com/thing:4785963
 - 2 way screw
@@ -126,3 +118,27 @@ DOOOOONE:
 - Rag holders
 - Tall Can Dispenser
 - PS4 Controller Holder
+- Living Room Games Setup:
+	- Wiimote charger wall mount
+	- 4 Nunchuk wall mount
+	- Classic controller wall mounts
+	- WiiU pro controller mount
+	- WiiU gamepad charger mount
+- Belt Hanger
+- Carcasonne tile dispenser https://www.thingiverse.com/thing:1649945 + Roof
+- Magnet microwave cover holder
+- Coffee Clip + Cap
+- Spoon holder for viet coffee
+- Wingspan boxes https://www.thingiverse.com/thing:3700341 https://www.thingiverse.com/thing:4412935 
+- Patchwork insert https://www.thingiverse.com/thing:3582171
+- Cosmic encounter ship/planet holders https://www.thingiverse.com/thing:4670163
+- DC rivals insert https://www.thingiverse.com/thing:4708597
+- Codenames insert https://www.thingiverse.com/thing:2758526
+- Bang insert https://www.thingiverse.com/thing:4179765 (Edited to have a trough for cardboard bullets)
+- Aeon's end insert https://www.thingiverse.com/thing:2804908
+- V29D whistle
+- Codenames duet insert https://www.thingiverse.com/thing:2758526
+- Munchkin Zombies case
+- Gloomhaven dashboard https://www.thingiverse.com/thing:2773751 (Red, Green)
+- Mansions of madness dashboards https://www.thingiverse.com/thing:3506482
+- TFM Hex tile holder for rahul

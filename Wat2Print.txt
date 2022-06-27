@@ -4,19 +4,14 @@
 (NC) = Needs to choose designs
 
 BLACK
-- Switch pro controller mount
-- Stuff to hold gcn controller/cables (NE)
-- WiiU Mount (NE)
-- GCN controller mounts https://www.thingiverse.com/thing:4817090
-- Some cable mgmt stuff for TV setup
-- D battery holder (NE)
-- Dishwasher clean/dirty (NC) (Or White)
 - The mind box, maybe that also fits the mind extreme (ND) (or transparent)
-- Rahul's Turmoil meeple holder
+- D battery holder
+- Some cable mgmt stuff for TV setup (Or White)
+- GCN controller mounts? https://www.thingiverse.com/thing:4817090
+- Dishwasher clean/dirty (NC) (Or White)
 - MAYBE 7 wonders duel card board https://www.thingiverse.com/thing:4286465
-- Cosmic encounter card tray https://www.thingiverse.com/thing:3113629 (or transparent)
 - MAYBE cosmic encounter token trays https://www.thingiverse.com/thing:3778961
-- Sagrada insert https://www.thingiverse.com/thing:4663723 (or transparent)
+- Sagrada insert? https://www.thingiverse.com/thing:4663723 (or transparent)
 - Re-print the avalon box?
 - Laptop holder? (ND)
 - Desktop organizer? (ND)
@@ -143,3 +138,9 @@ DOOOOONE:
 - Gloomhaven dashboard https://www.thingiverse.com/thing:2773751 (Red, Green)
 - Mansions of madness dashboards https://www.thingiverse.com/thing:3506482
 - TFM Hex tile holder for rahul
+- Switch pro controller mount
+- Stuff to hold gcn controller/cables
+- WiiU Mount
+- Rahul's Turmoil meeple holder
+- Switch Mount https://www.thingiverse.com/thing:3344254
+- Cosmic encounter card tray https://www.thingiverse.com/thing:3113629 (or transparent)

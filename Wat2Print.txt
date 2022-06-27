@@ -4,28 +4,32 @@
 (NC) = Needs to choose designs
 
 BLACK
-- The mind box, maybe that also fits the mind extreme (ND) (or transparent)
-- D battery holder
+- Power strip wall mount shelf thing
 - Some cable mgmt stuff for TV setup (Or White)
-- GCN controller mounts? https://www.thingiverse.com/thing:4817090
 - Dishwasher clean/dirty (NC) (Or White)
-- MAYBE 7 wonders duel card board https://www.thingiverse.com/thing:4286465
-- MAYBE cosmic encounter token trays https://www.thingiverse.com/thing:3778961
+- 7 wonders duel card board? https://www.thingiverse.com/thing:4286465
 - Sagrada insert? https://www.thingiverse.com/thing:4663723 (or transparent)
-- Re-print the avalon box?
+- Re-print the avalon box? (NE?)
 - Laptop holder? (ND)
 - Desktop organizer? (ND)
+
+(BONE) WHITE
+- Reprint OG light switch plates
+- Bathroom google home holder (ND)
+- Re-designed wiimote mount (ND)
+- Light Switch Plate W/ Wallet (ND)
+- Oculus wall mount (NC)
+- White flexy lamp wall mount (ND)
+- Liar's Dice cup (NC)
+
+PURPLE
+- Gloomhaven dashboard
+- Last 8 wingspan birdhouses
 
 BLUE
 - Reprint filament guide thing
 - MAYBE Ender 3 Tray (or black)
 - Liar's Dice cup (NC) (or teal/ice)
-
-(BONE) WHITE
-- Light Switch Plate W/ Wallet (ND)
-- Oculus wall mount (NC)
-- White flexy lamp wall mount (ND)
-- Liar's Dice cup (NC)
 
 TEAL
 - ChopStick Holder (could also be ice blue or transparent)
@@ -51,6 +55,7 @@ TRANSPARENT
 - MAYBE Carcasonne meeple organizer? https://www.thingiverse.com/thing:2008265
 
 GREEN
+- New munchkin box (ND)
 - Liar's Dice cup (NC)
 
 RED
@@ -60,9 +65,8 @@ RED
 YELLOW
 - Liar's Dice cup (NC)
 
-PURPLE?
-- Gloomhaven dashboard
-- Last 8 wingspan birdhouses
+ROSE GOLD
+- Fun stuff (see below)
 
 ANY COLOUR
 - Broom Holder
@@ -144,3 +148,7 @@ DOOOOONE:
 - Rahul's Turmoil meeple holder
 - Switch Mount https://www.thingiverse.com/thing:3344254
 - Cosmic encounter card tray https://www.thingiverse.com/thing:3113629 (or transparent)
+- D battery holder
+- cosmic encounter token trays https://www.thingiverse.com/thing:3778961
+- The mind and the mind extreme boxes
+- GCN controller mounts https://www.thingiverse.com/thing:4817090
